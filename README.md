@@ -5,4 +5,4 @@
 Shared components of control computer
 
 ### Tags
-[Groovy, Spring Boot EJB]
+[Groovy]
