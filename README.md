@@ -5,4 +5,4 @@
 Shared softare components of computer controller
 
 ### Tags
-[Groovy]
+[Groovy, Spring Boot EJB]
